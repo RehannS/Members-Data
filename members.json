@@ -1,129 +1,129 @@
 
-     
+ [    
   {
-            name: "Faizan Madgaonwala",
-            quote: "There are dreamers and there are planners; the planners make their dreams come true.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701560/WhatsApp_Image_2023-09-08_at_16.46.38_-_MADGAONWALA_MOHAMMAD_FAIZAN_RIYAZ_312027_bedkto.jpg",
-            insta:"https://www.instagram.com/faizanmadgaonwala",
-            linkedin:"https://www.linkedin.com/in/faizanmadgaonwala"
+            "name": "Faizan Madgaonwala",
+            "quote": "There are dreamers and there are planners; the planners make their dreams come true.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701560/WhatsApp_Image_2023-09-08_at_16.46.38_-_MADGAONWALA_MOHAMMAD_FAIZAN_RIYAZ_312027_bedkto.jpg",
+            "insta":"https://www.instagram.com/faizanmadgaonwala",
+            "linkedin":"https://www.linkedin.com/in/faizanmadgaonwala"
         },
         {
-            name: "Nabeel Shaikh",
-            quote: "Events are like puzzles; I just love putting all the pieces together.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/20220921_095254_-_SHAIKH_NABEEL_SHABBIR_312050_lfhzu8.jpg",
-            insta:"https://www.instagram.com/nabeel.shaikh_?igsh=MW1obWJmMmkwZGlreQ==",
-            linkedin:"https://www.linkedin.com/in/nabeel-shaikh-310880226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            "name": "Nabeel Shaikh",
+            "quote": "Events are like puzzles; I just love putting all the pieces together.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/20220921_095254_-_SHAIKH_NABEEL_SHABBIR_312050_lfhzu8.jpg",
+            "insta":"https://www.instagram.com/nabeel.shaikh_?igsh=MW1obWJmMmkwZGlreQ==",
+            "linkedin":"https://www.linkedin.com/in/nabeel-shaikh-310880226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
          {
-            name: "Rohit Deshmukh",
-            quote: "Everything that drowned me taught me how to swim.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/image_2023-09-13_204043216_-_ROHIT_SUHAS_DESHMUKH_211244_dtyw7u.png",
-            insta:"https://www.instagram.com/__._.rohit_.__/",
-            linkedin:"https://www.linkedin.com/in/rohit-deshmukh-/"
+           "name": "Rohit Deshmukh",
+            "quote": "Everything that drowned me taught me how to swim.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/image_2023-09-13_204043216_-_ROHIT_SUHAS_DESHMUKH_211244_dtyw7u.png",
+               "insta":"https://www.instagram.com/__._.rohit_.__/",
+            "linkedin":"https://www.linkedin.com/in/rohit-deshmukh-/"
         },
          {
-            name: "Khushi Tripathi",
-            quote: "In a world of noise, we make meaningful connections.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/DSC_0784_-_Khushi_Tripathi_xpuqmo.jpg",
-            insta:"https://www.instagram.com/khush_itripathi03/",
-            linkedin:"https://www.linkedin.com/in/khushi-tripathi-37647a295/"
+            "name": "Khushi Tripathi",
+            "quote": "In a world of noise, we make meaningful connections.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/DSC_0784_-_Khushi_Tripathi_xpuqmo.jpg",
+             "insta":"https://www.instagram.com/khush_itripathi03/",
+           "linkedin":"https://www.linkedin.com/in/khushi-tripathi-37647a295/"
         },
         {
-            name: "Rehan Sayyed",
-            quote: "The best way to predict the future is to invent it(with code).",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/IMG-20230916-WA0084_i09lpj.jpg",
-            insta:"https://www.instagram.com/mr_rehan__06/",
-            linkedin:"https://www.linkedin.com/in/rehan42/"
+            "name": "Rehan Sayyed",
+            "quote": "The best way to predict the future is to invent it(with code).",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/IMG-20230916-WA0084_i09lpj.jpg",
+            "insta":"https://www.instagram.com/mr_rehan__06/",
+            "linkedin":"https://www.linkedin.com/in/rehan42/"
         },
         {
-            name: "Renita Fernandes",
-            quote: "Engaging audience to blieve in and be a part of the story.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/IMG-20230917-WA0042_-_FERNANDES_RENITA_CHRISTOPHER_312015_u5c0l5.jpg",
-            insta:"",
-            linkedin:"https://www.linkedin.com/in/renita-fernandes-8b75b524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            "name": "Renita Fernandes",
+            "quote": "Engaging audience to blieve in and be a part of the story.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/IMG-20230917-WA0042_-_FERNANDES_RENITA_CHRISTOPHER_312015_u5c0l5.jpg",
+            "insta":"",
+            "linkedin":"https://www.linkedin.com/in/renita-fernandes-8b75b524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
         {
-            name: "Rehan Shah",
-            quote: "But Without the dark, we'd never see the stars",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710767071/IMG_6875_u4o0uz.jpg",
-            insta:"https://www.instagram.com/rehan_shah22?igsh=MXUwYWtoNzcxbWRnZQ%3D%3D&utm_source=qr",
-            linkedin:"https://www.linkedin.com/in/rehan-shah-32ba37259/"
+            "name": "Rehan Shah",
+            "quote": "But Without the dark, we'd never see the stars",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710767071/IMG_6875_u4o0uz.jpg",
+            "insta":"https://www.instagram.com/rehan_shah22?igsh=MXUwYWtoNzcxbWRnZQ%3D%3D&utm_source=qr",
+            "linkedin":"https://www.linkedin.com/in/rehan-shah-32ba37259/"
         },
         {
-            name: "Habban Bhoira",
-            quote: "Providing fuel to the engine.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701557/2023_03_16_16_10_IMG_9494_-_Bhoira_Habban_Abdul_Quddus_222263_c1nhca.jpg",
-            insta:"https://www.instagram.com/habban_bhoira_?igsh=aGFjcGlmYnRrcmEw",
-            linkedin:"https://www.linkedin.com/in/habban-bhoira-99580a21b"
+            "name": "Habban Bhoira",
+            "quote": "Providing fuel to the engine.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701557/2023_03_16_16_10_IMG_9494_-_Bhoira_Habban_Abdul_Quddus_222263_c1nhca.jpg",
+            "insta":"https://www.instagram.com/habban_bhoira_?igsh=aGFjcGlmYnRrcmEw",
+            "linkedin":"https://www.linkedin.com/in/habban-bhoira-99580a21b"
         },
         {
-            name: "Mishkat Khan",
-            quote: "If Pixels had feelings, They'd Thank Me.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/Formpic_-_Khan_Mishkat_Moinuddin_222264_e8gzor.heic",
-            insta:"https://www.instagram.com/mishkatkhan_?igsh=cmRta2gyZno3b200",
-            linkedin:"https://www.linkedin.com/in/mishkat-khan"
+            "name": "Mishkat Khan",
+            "quote": "If Pixels had feelings, They'd Thank Me.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/Formpic_-_Khan_Mishkat_Moinuddin_222264_e8gzor.heic",
+            "insta":"https://www.instagram.com/mishkatkhan_?igsh=cmRta2gyZno3b200",
+            "linkedin":"https://www.linkedin.com/in/mishkat-khan"
         },
         {
-            name: "Chandni Qureshi",
-            quote: "Preserving the past, recording the present, and shaping the future of your events",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/IMG-20230608-WA0009_-_QURESHI_CHANDNI_PEER_MOHAMMAD_211239_xmfwsa.jpg",
-            insta:"https://www.instagram.com/princess_chandni_03?igsh=OGR1cDR1cGFmeWdx",
-            linkedin:"https://www.linkedin.com/in/chandni-qureshi-60810a26b/"
+            "name": "Chandni Qureshi",
+            "quote": "Preserving the past, recording the present, and shaping the future of your events",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/IMG-20230608-WA0009_-_QURESHI_CHANDNI_PEER_MOHAMMAD_211239_xmfwsa.jpg",
+            "insta":"https://www.instagram.com/princess_chandni_03?igsh=OGR1cDR1cGFmeWdx",
+            "linkedin":"https://www.linkedin.com/in/chandni-qureshi-60810a26b/"
         },
         {
-            name: "Zikra Siddiqui",
-            quote: "Be the Change that you want to see in the world.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701556/IMG_20230913_190909_-_SIDDIQUI_ZIKRA_MARYAM_SALEEM_JAVID_211257_ifgfs9.jpg",
-            insta:"",
-            linkedin:"https://www.linkedin.com/in/zikra-maryam-siddiqui-627a2b283"
+            "name": "Zikra Siddiqui",
+            "quote": "Be the Change that you want to see in the world.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701556/IMG_20230913_190909_-_SIDDIQUI_ZIKRA_MARYAM_SALEEM_JAVID_211257_ifgfs9.jpg",
+            "insta":"",
+            "linkedin":"https://www.linkedin.com/in/zikra-maryam-siddiqui-627a2b283"
         },
 {
-            name: "Firdos Shaikh",
-            quote: "Nothing in life is promised except Death.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701557/IMG_20230913_175439_-_SHAIKH_FIRDOS_BASHIR_211250_qyvqpj.jpg",
-            insta:"https://www.instagram.com/firdous_005?igsh=NXFkemhld25wZW9u",
-            linkedin:"https://www.linkedin.com/in/firdos-shaikh-00837a232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            "name": "Firdos Shaikh",
+            "quote": "Nothing in life is promised except Death.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701557/IMG_20230913_175439_-_SHAIKH_FIRDOS_BASHIR_211250_qyvqpj.jpg",
+            "insta":"https://www.instagram.com/firdous_005?igsh=NXFkemhld25wZW9u",
+            "linkedin":"https://www.linkedin.com/in/firdos-shaikh-00837a232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
 {
-            name: "Sanskruti Bansode",
-            quote: "Don't go through life, grow through life.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/Sanskruti_211213_-_BANSODE_SANSKRUTI_BHARAT_211213_anoea1.jpg",
-            insta:"https://www.instagram.com/snsk_20?igsh=MTVxenA5MHRhMHNzcg==",
-            linkedin:"https://www.linkedin.com/in/sanskrutibansode?trk=contact-info"
+            "name": "Sanskruti Bansode",
+            "quote": "Don't go through life, grow through life.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701559/Sanskruti_211213_-_BANSODE_SANSKRUTI_BHARAT_211213_anoea1.jpg",
+            "insta":"https://www.instagram.com/snsk_20?igsh=MTVxenA5MHRhMHNzcg==",
+            "linkedin":"https://www.linkedin.com/in/sanskrutibansode?trk=contact-info"
         },
 {
-            name: "Taqueveem Ahmad",
-            quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701556/1694619411995_-_TAQUEVEEM_AHMAD_211259_n7hehh.jpg",
-            insta:"https://www.instagram.com/shaikh_taqueveeem?igsh=cXk0bnMydjIyMm1m",
-            linkedin:"https://www.linkedin.com/in/ahmad-taqueveem-721335269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            "name": "Taqueveem Ahmad",
+            "quote": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701556/1694619411995_-_TAQUEVEEM_AHMAD_211259_n7hehh.jpg",
+            "insta":"https://www.instagram.com/shaikh_taqueveeem?igsh=cXk0bnMydjIyMm1m",
+            "linkedin":"https://www.linkedin.com/in/ahmad-taqueveem-721335269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
 {
-            name: "Azlaan Shaikh",
-            quote: "Do the impossible and you'll never doubt yourselfever again.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701557/IMG-20210712-WA0008_-_SHAIKH_AZLAAN_MUJAHID_211248_nxphww.jpg",
-            insta:"https://www.instagram.com/azlaanshaikh47/?next=%2F",
-            linkedin:"https://www.linkedin.com/in/azlaanshaikh/"
+            "name": "Azlaan Shaikh",
+            "quote": "Do the impossible and you'll never doubt yourselfever again.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701557/IMG-20210712-WA0008_-_SHAIKH_AZLAAN_MUJAHID_211248_nxphww.jpg",
+            "insta":"https://www.instagram.com/azlaanshaikh47/?next=%2F",
+            "linkedin":"https://www.linkedin.com/in/azlaanshaikh/"
         },
 {
-            name: "Rugved Patil",
-            quote: "Rise higher and higher!!!",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/IMG_20230913_161136_-_PATIL_RUGVED_SACHIN_221235_hbaihe.jpg",
-            insta:"https://www.instagram.com/rugved_patil_14?igsh=MXZoNmM5ZmFocDE0cw==",
-            linkedin:"https://www.linkedin.com/in/rugved-patil-b1b7501b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            "name": "Rugved Patil",
+            "quote": "Rise higher and higher!!!",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/IMG_20230913_161136_-_PATIL_RUGVED_SACHIN_221235_hbaihe.jpg",
+            "insta":"https://www.instagram.com/rugved_patil_14?igsh=MXZoNmM5ZmFocDE0cw==",
+            "linkedin":"https://www.linkedin.com/in/rugved-patil-b1b7501b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
 {
-            name: "Talha Ansari",
-            quote: "I'm not comfortable with comfort. I'm only comfortable when I'm in a place where I'm constantly learning and growing.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/IMG_20230913_161136_-_PATIL_RUGVED_SACHIN_221235_hbaihe.jpg",
-            insta:"https://www.instagram.com/rugved_patil_14?igsh=MXZoNmM5ZmFocDE0cw==",
-            linkedin:"https://www.linkedin.com/in/rugved-patil-b1b7501b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            "name": "Talha Ansari",
+            "quote": "I'm not comfortable with comfort. I'm only comfortable when I'm in a place where I'm constantly learning and growing.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701558/IMG_20230913_161136_-_PATIL_RUGVED_SACHIN_221235_hbaihe.jpg",
+            "insta":"https://www.instagram.com/rugved_patil_14?igsh=MXZoNmM5ZmFocDE0cw==",
+            "linkedin":"https://www.linkedin.com/in/rugved-patil-b1b7501b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
 {
-            name: "Hammad Moosvi",
-            quote: "I was never really good at anything except for the ability to learn.",
-            src: "https://res.cloudinary.com/projectbackend/image/upload/v1710701560/Screenshot_2023-09-13-20-54-25-566_com.instagram.android-edit_-_MOOSVI_HAMMAD_HASAN_SYED_HASAN_RAZA_221234_rq4dca.jpg",
-            insta:"",
-            linkedin:""
+            "name": "Hammad Moosvi",
+            "quote": "I was never really good at anything except for the ability to learn.",
+            "src": "https://res.cloudinary.com/projectbackend/image/upload/v1710701560/Screenshot_2023-09-13-20-54-25-566_com."insta"gram.android-edit_-_MOOSVI_HAMMAD_HASAN_SYED_HASAN_RAZA_221234_rq4dca.jpg",
+            "insta":"https://www.instagram.com/hammadmoosvi72?igsh=b3Ryd2Niand1d3pj",
+            "linkedin":"https://www.linkedin.com/in/hammad-moosvi-a2b58b271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
-
+ ]
